@@ -40,3 +40,6 @@ Note that when you want to end the formatting, you need to put a closing to your
 
 Experiment or google to find some of the options available to you!
 You can also check out the documentation at https://rich.readthedocs.io/en/latest/index.html
+
+
+to save itasjflasfl;asjkfkjasfl;kasl;df
